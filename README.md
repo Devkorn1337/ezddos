@@ -1,0 +1,2 @@
+# ezddos
+pythonnnnn
